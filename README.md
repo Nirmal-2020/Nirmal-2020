@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nirmal-2020
 - 👀 I’m interested in embedded devices, SOC architectures, music, cycling and art
 - 🌱 I’m currently learning CS50 from Harward University
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on embedded c projects
 - 📫 nirmal4d@gmail.com
 
 <!---
